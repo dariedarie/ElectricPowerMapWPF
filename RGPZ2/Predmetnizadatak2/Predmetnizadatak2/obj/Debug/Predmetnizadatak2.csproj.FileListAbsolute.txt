@@ -1,0 +1,15 @@
+C:\Users\colak\Desktop\RGPZ2\Predmetnizadatak2\Predmetnizadatak2\bin\Debug\Predmetnizadatak2.exe.config
+C:\Users\colak\Desktop\RGPZ2\Predmetnizadatak2\Predmetnizadatak2\bin\Debug\Predmetnizadatak2.exe
+C:\Users\colak\Desktop\RGPZ2\Predmetnizadatak2\Predmetnizadatak2\bin\Debug\Predmetnizadatak2.pdb
+C:\Users\colak\Desktop\RGPZ2\Predmetnizadatak2\Predmetnizadatak2\obj\Debug\Predmetnizadatak2.csprojAssemblyReference.cache
+C:\Users\colak\Desktop\RGPZ2\Predmetnizadatak2\Predmetnizadatak2\obj\Debug\MainWindow.g.cs
+C:\Users\colak\Desktop\RGPZ2\Predmetnizadatak2\Predmetnizadatak2\obj\Debug\App.g.cs
+C:\Users\colak\Desktop\RGPZ2\Predmetnizadatak2\Predmetnizadatak2\obj\Debug\Predmetnizadatak2_MarkupCompile.cache
+C:\Users\colak\Desktop\RGPZ2\Predmetnizadatak2\Predmetnizadatak2\obj\Debug\Predmetnizadatak2_MarkupCompile.lref
+C:\Users\colak\Desktop\RGPZ2\Predmetnizadatak2\Predmetnizadatak2\obj\Debug\MainWindow.baml
+C:\Users\colak\Desktop\RGPZ2\Predmetnizadatak2\Predmetnizadatak2\obj\Debug\Predmetnizadatak2.g.resources
+C:\Users\colak\Desktop\RGPZ2\Predmetnizadatak2\Predmetnizadatak2\obj\Debug\Predmetnizadatak2.Properties.Resources.resources
+C:\Users\colak\Desktop\RGPZ2\Predmetnizadatak2\Predmetnizadatak2\obj\Debug\Predmetnizadatak2.csproj.GenerateResource.cache
+C:\Users\colak\Desktop\RGPZ2\Predmetnizadatak2\Predmetnizadatak2\obj\Debug\Predmetnizadatak2.csproj.CoreCompileInputs.cache
+C:\Users\colak\Desktop\RGPZ2\Predmetnizadatak2\Predmetnizadatak2\obj\Debug\Predmetnizadatak2.exe
+C:\Users\colak\Desktop\RGPZ2\Predmetnizadatak2\Predmetnizadatak2\obj\Debug\Predmetnizadatak2.pdb
